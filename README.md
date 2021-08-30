@@ -5,7 +5,7 @@
 <p>Simply past this line in your shell :</p>
 
 ```bash
-git clone https://github.com/hadrienaka/dynbashdns && cd dynbashdns && bash install.sh
+git clone https://github.com/HadiDotSh/dynbashdns && cd dynbashdns && bash install.sh
 ```
 <p>Then, add an alias to your bashrc/zshrc file, and a crontab</p>
 
